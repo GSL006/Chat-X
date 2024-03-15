@@ -2,7 +2,7 @@ import threading
 import socket
 import ssl
 
-host = "192.168.124.237"
+host = "" #Enter a valid ip here
 port = 5555
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
